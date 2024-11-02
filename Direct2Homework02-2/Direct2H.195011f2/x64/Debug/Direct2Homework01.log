@@ -1,0 +1,25 @@
+﻿C:\Users\Admin\Desktop\Direct2Homework02-2\Shaders.hlsl(221,11-37): warning X3206: 'Fog': implicit truncation of vector type
+C:\Users\Admin\Desktop\Direct2Homework02-2\Shaders.hlsl(333,12-38): warning X3206: 'Fog': implicit truncation of vector type
+C:\Users\Admin\Desktop\Direct2Homework02-2\Shaders.hlsl(395,11-37): warning X3206: 'Fog': implicit truncation of vector type
+C:\Users\Admin\Desktop\Direct2Homework02-2\Shaders.hlsl(455,11-37): warning X3206: 'Fog': implicit truncation of vector type
+C:\Users\Admin\Desktop\Direct2Homework02-2\Shaders.hlsl(573,22-59): warning X3206: 'Fog': implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\Admin\Desktop\Direct2Homework02-2\x64\Debug\Shaders.cso
+  Camera.cpp
+  DDSTextureLoader12.cpp
+  Direct2Homework01.cpp
+  GameFramework.cpp
+C:\Users\Admin\Desktop\Direct2Homework02-2\GameFramework.cpp(501,59): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mesh.cpp
+C:\Users\Admin\Desktop\Direct2Homework02-2\Mesh.cpp(985,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Object.cpp
+  Player.cpp
+  Scene.cpp
+C:\Users\Admin\Desktop\Direct2Homework02-2\Scene.cpp(536,3): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+  Shader.cpp
+  stdafx.cpp
+  Timer.cpp
+  UILayer.cpp
+  WICTextureLoader12.cpp
+  코드를 생성하고 있습니다...
+  Direct2Homework01.vcxproj -> C:\Users\Admin\Desktop\Direct2Homework02-2\x64\Debug\Direct2Homework01.exe
